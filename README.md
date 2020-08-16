@@ -8,4 +8,5 @@ Most of my equipment runs at 1780rpm 4-pole speed or 3560 2-pole speed.
 3560 would eqaual 1/2 of the 1780 calc or 17ms/rev
 btw, 90% of the equipment is running ok so I will train the model on a similar diet of sound files 90% good machines and 10% bad machines.
 
-![](pics/
+![](pics/360.rbm_AHU_EF135%20%20EXHAUST%20FAN_AV%20-%20O.D.E.%20VERT_7-21-2020%204-22-43%20PM%20Bearing%20Fault%2066.png)
+
