@@ -6,3 +6,6 @@ My work as a vibration analyst affords me the opportunity to hear many different
 Most of my equipment runs at 1780rpm 4-pole speed or 3560 2-pole speed.
 1780rpm / 60 = 29.6667rps 1 / 29.667 = 33.7ms/rev or 34ms/rev
 3560 would eqaual 1/2 of the 1780 calc or 17ms/rev
+btw, 90% of the equipment is running ok so I will train the model on a similar diet of sound files 90% good machines and 10% bad machines.
+
+![](pics/
